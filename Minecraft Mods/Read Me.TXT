@@ -1,0 +1,11 @@
+1. Run Forge Jar file and install the client to the .minecraft folder, path should be automatically set.
+2. if successful press the windows button and type %appdata% and go into the .minecraft folder and paste all mods .jar files into the Mods folder.
+	Path should look like this. C:\Users\User\AppData\Roaming\.minecraft\mods
+3. Launch minecraft and select the forge option just left of the play button on the launcher.
+4. PLAY.
+
+NOTES:
+*If jar files unable to be run java might need to be installed
+*if jar files not running try the Jarfix.exe file.
+
+*Not resposible if your pc breaks lol.
